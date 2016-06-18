@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1087901704447",
+    "firebase_url": "https://sinaryuda-web-id.firebaseio.com",
+    "project_id": "sinaryuda-web-id",
+    "storage_bucket": "sinaryuda-web-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087901704447:android:be79271c1685a8ff",
+        "android_client_info": {
+          "package_name": "id.web.sinaryuda.tutorial.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087901704447-47fujstg89fod6jl01p9augtd9hi591o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.sinaryuda.tutorial.firebase",
+            "certificate_hash": "EFFB516FD019DEADD12779EF0603BEBAA93EA3B5"
+          }
+        },
+        {
+          "client_id": "1087901704447-o1ton2ibhpe6o3omjbgtieq6o5lt8oi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlD_6Kvjx9Ws4RCsGayurxr13btKnNeo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087901704447-o1ton2ibhpe6o3omjbgtieq6o5lt8oi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087901704447:android:e6a1360dc7a2b79a",
+        "android_client_info": {
+          "package_name": "id.web.sinaryuda.tutorial.firebase.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087901704447-33bhdaqfb32rli2pfh1tll2i1elokcv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.sinaryuda.tutorial.firebase.analytics",
+            "certificate_hash": "EFFB516FD019DEADD12779EF0603BEBAA93EA3B5"
+          }
+        },
+        {
+          "client_id": "1087901704447-o1ton2ibhpe6o3omjbgtieq6o5lt8oi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlD_6Kvjx9Ws4RCsGayurxr13btKnNeo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087901704447-o1ton2ibhpe6o3omjbgtieq6o5lt8oi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

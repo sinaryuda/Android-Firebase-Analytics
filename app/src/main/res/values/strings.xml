@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial Firebase</string>
+
+    <string name="pilih_mobil">Pilih yang mana Pajero sport, Fortuner atau Innova? ?</string>
+    <string name="mobil_pertama">Mobil Pajero</string>
+    <string name="mobil_kedua">Mobil Fortuner</string>
+    <string name="mobil_ketiga">Mobil Innova</string>
+
+</resources>
